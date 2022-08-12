@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.zone30{
+    width: 30%;
+    background-color:#28345f;
+    color: #fff;
+}
+
+.zone70{
+    width: 70%;
+
+}
